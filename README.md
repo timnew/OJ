@@ -1,6 +1,9 @@
-# [Problem 211. Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
+# 211. Add and Search Word - Data structure design
+
+Page: https://leetcode.com/problems/add-and-search-word-data-structure-design/
 
 # Problem Description
+
 Design a data structure that supports the following two operations:
 
 ```
